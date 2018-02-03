@@ -1,0 +1,112 @@
+/* Wireframe CSS Homework 1*/
+body{
+    background-color: #AAA7AB;
+}
+div{
+    text-align: center;
+    color: black;
+}
+#header {
+    
+    padding:2%;
+    width: 75%;
+    border: solid #F52914;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #d1d1d0;
+
+}
+
+#nav {
+   
+    padding:2%;
+    width: 75%;
+    border: solid #F52914;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #d1d1d0;
+}
+
+#bigLeftbox {
+    float: left;
+    width:50%;
+    background-color: #3661F5;
+    height: 100%;
+    
+   
+}
+
+#bigRightbox {
+    float: right;
+    width: 45%;
+    background-color: #CC7EF3;
+    height:100%;
+    
+    
+}
+
+#footer {
+   
+    padding: 2%;
+    width: 75%;
+    border: solid #F52914;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #d1d1d0;
+
+}
+
+#mediumLeftbox {
+    
+    background-color: #F7FA21;
+    width: 97%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border: solid #000000;
+}
+
+#smallTopbox {
+    
+    background-color: #F51040;
+    width: 80%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    border: solid #000000;
+    padding: 25px 30px 5px;
+   
+}
+
+#smallBottombox {
+    
+    background-color: #21FA2E;
+    width: 80%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border: solid #000000;
+    padding: 25px 30px 5px;
+}
+
+
+ .bigBox{
+    padding:2%;
+    width: 75%;
+    height:300px;
+    border:  solid #F52914;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #d1d1d0;
+ }
